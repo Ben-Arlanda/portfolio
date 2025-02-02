@@ -3,7 +3,7 @@ date: '2017-04-01'
 title: 'Application Support Engineer'
 company: 'Hewlett Packard'
 location: 'UK'
-range: '2012–2014'
+range: '2012 – 2014'
 url: 'https://www.hpe.com/uk/en/home.html'
 ---
 

@@ -3,7 +3,7 @@ date: '2015-12-21'
 title: 'Consultant'
 company: 'Lloyds Bank'
 location: 'UK'
-range: '2005- 2007'
+range: '2005 - 2007'
 url: 'https://www.lloydsbank.com/'
 ---
 

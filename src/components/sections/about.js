@@ -77,8 +77,8 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hey! I'm Ben, a passionate Full Stack Engineer originally from sunny England, I am now
-              a proud citizen of Australia mate. My interest in tech started when I left school and
+              Hey! I'm Ben, a passionate Software Engineer originally from sunny England, I am now a
+              proud citizen of Australia mate. My interest in tech started when I left school and
               studied Information Technology. Unfortunatley I was unable to follow my passions due
               to a difficult job market in my hometown of Newcastle Upon Tyne.
             </p>
@@ -91,7 +91,7 @@ const About = () => {
             </p>
 
             <p>
-              Before becoming a Full Stack Engineer I had a career in Recruitment, specialising in
+              Before becoming a Software Engineer I had a career in Recruitment, specialising in
               Software Engineering and prior to this I worked in the banking sector for Top 4 banks.
               My banking experience gave me strong knowledge in financial products, regulatory
               compliance, and customer service, while my recruitment background allowed me to

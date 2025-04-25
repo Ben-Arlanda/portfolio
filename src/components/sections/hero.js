@@ -82,9 +82,9 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a <span className="highlight">Software Engineer</span> based in Australia. My passion
-        lies in collaborating across teams, solving problems creatively, and always keeping the user
-        at the heart of the solution.
+        I’m a <span className="highlight">Front End Engineer</span> based in Sydney. My passion lies
+        in collaborating across teams, solving problems creatively, and always keeping the user at
+        the heart of the solution.
       </p>
     </>
   );

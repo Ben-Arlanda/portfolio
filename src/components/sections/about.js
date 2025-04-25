@@ -59,9 +59,9 @@ const About = () => {
   }, []);
 
   const skills = [
-    'JavaScript (ES6+)',
+    'Next.js | React.js',
     'TypeScript',
-    'React',
+    'Tailwind',
     'React Native',
     'Node.js',
     'AWS',
@@ -84,10 +84,11 @@ const About = () => {
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://gladlyapp.com/">a start-up called Gladly</a>, where I gained Full
-              Stack Engineering skills. My main focus is building accessible and impactful products
-              that can help people lead better lives.
+              Fast-forward to today, and I’ve had the privilege of working at a start-up called{' '}
+              <a href="https://gladlyapp.com/">Glady</a> where I gained Full Stack Engineering
+              skills, and now I’m diving deep into front-end development as an engineer at{' '}
+              <a href="https://www.dealerstudio.com.au/">Dealer Studio.</a> My main focus is
+              building accessible and impactful products that can help people lead better lives.
             </p>
 
             <p>

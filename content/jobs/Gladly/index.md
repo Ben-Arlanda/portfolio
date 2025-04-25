@@ -1,9 +1,9 @@
 ---
-date: '2018-05-14'
+date: '2024-12-14'
 title: 'Full Stack Engineer'
 company: 'Gladly'
 location: 'Sydney'
-range: 'Dec 2024 - Present'
+range: 'Dec 2024 - Feb 2025'
 url: 'https://gladlyapp.com/'
 ---
 

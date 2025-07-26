@@ -205,11 +205,12 @@ const Nav = ({ isHome }) => {
     </div>
   );
 
-  const ResumeLink = (
-    <a className="resume-button" href="/resume.pdf" target="_blank" rel="noopener noreferrer">
-      Resume
-    </a>
-  );
+  // Temporarily removed resume button
+  // const ResumeLink = (
+  //   <a className="resume-button" href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+  //     Resume
+  //   </a>
+  // );
 
   return (
     <StyledHeader scrollDirection={scrollDirection} scrolledToTop={scrolledToTop}>
@@ -227,7 +228,8 @@ const Nav = ({ isHome }) => {
                     </li>
                   ))}
               </ol>
-              <div>{ResumeLink}</div>
+              {/* Temporarily removed resume button */}
+              {/* <div>{ResumeLink}</div> */}
             </StyledLinks>
 
             <Menu />
@@ -261,7 +263,8 @@ const Nav = ({ isHome }) => {
                 </TransitionGroup>
               </ol>
 
-              <TransitionGroup component={null}>
+              {/* Temporarily removed resume button */}
+              {/* <TransitionGroup component={null}>
                 {isMounted && (
                   <CSSTransition classNames={fadeDownClass} timeout={timeout}>
                     <div
@@ -272,7 +275,7 @@ const Nav = ({ isHome }) => {
                     </div>
                   </CSSTransition>
                 )}
-              </TransitionGroup>
+              </TransitionGroup> */}
             </StyledLinks>
 
             <TransitionGroup component={null}>

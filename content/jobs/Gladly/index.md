@@ -1,14 +1,15 @@
 ---
-date: '2024-12-14'
+date: '2023-12-14'
 title: 'Full Stack Engineer'
 company: 'Gladly'
 location: 'Sydney'
-range: 'Dec 2024 - Feb 2025'
+range: 'Apr 2023 - Feb 2025'
 url: 'https://gladlyapp.com/'
 ---
 
-- Worked in an agile environment to deliver production ready code for the gladly web and mobile applications
-- Led the design and rebuild of the interactive admin application
-- Collaborated with ux designers, product managers, and other engineers to transform new features into production
-- Integrated front-app with APIs to retrieve and display large datasets
+- Delivered production ready features for web and mobile apps in an agile team environment
+- Led the design and rebuild of the interactive admin dasboard
+- Integrated GraphQL APIs handling large datasets (100k+ records) and supporting 1,000+ concurrent users
+- Collaborated with designers, product managers, and other engineers to transform new features into production
+- Consistently delivered features in 2-week sprint cycles, contributing to a 95% sprint completion rate
 - Implemented unit tests to ensure the reliability and correctness of React components, improving code quality

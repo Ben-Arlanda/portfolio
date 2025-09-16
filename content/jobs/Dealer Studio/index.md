@@ -7,9 +7,11 @@ range: 'Apr 2025 - Present'
 url: 'https://www.dealerstudio.com.au/'
 ---
 
-- Working within a large-scale monorepo combined with a custom CMS that powers a
-  LMS platform and hundreds of dealership sites
-- Developed and customised high performance OEM branded car dealer websites using Next.js and TypeScript for brands like Toyota, Ford, LDV, and Mitsubishi
-- Built and maintained reusable components following brand guidelines and responsive design principles using TailwindCSS, SCSS modules, and EditorJS-based CMS blocks
-- Actively participated in peer code reviews across the front-end team, providing feedback on pull requests to ensure code quality, consistency with project architecture, adherence to brand compliance and CMS integration standards
-- Collaborated with PMs to implement client requests, ensuring alignment between technical solutions and business goals across a huge portfolio of brands
+- Working within a large-scale monorepo powering 100+ dealership sites across Australia & integrating a headless CMS with EditorJS
+- Developed and customised high-performance OEM branded websites (Toyota, Ford, LDV, Mitsubishi)
+- Built and maintained reusable components following brand guidelines and responsive design principles
+- Actively participated in peer code reviews across a front-end team of 10+ engineers, ensuring quality and consistency
+- Collaborated directly with PMs and stakeholders to implement custom client features, increasing customer satisfaction and adoption
+- Helped raise team wide code quality by actively participating in reviews and implementing best practices
+- Helped refine team communication practices, leading to more transparent discussions and better alignment across engineering
+- Trained new engineers on processes and web builds

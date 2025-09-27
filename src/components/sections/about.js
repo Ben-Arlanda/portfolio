@@ -93,11 +93,9 @@ const About = () => {
 
             <p>
               Before becoming a Software Engineer I had a career in Recruitment, specialising in
-              Software Engineering and prior to this I worked in the banking sector for Top 4 banks.
-              My banking experience gave me strong knowledge in financial products, regulatory
-              compliance, and customer service, while my recruitment background allowed me to
-              develop experience in understanding business requirements to see the bigger picture
-              and also communicating effectively with stakeholders.
+              Software Engineering. This allowed me to develop experience in understanding business
+              requirements to see the bigger picture and also to communicate effectively with
+              stakeholders.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

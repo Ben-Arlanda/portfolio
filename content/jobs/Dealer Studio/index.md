@@ -1,6 +1,6 @@
 ---
 date: '2025-02-14'
-title: 'Front End Engineer'
+title: 'Full Stack Engineer'
 company: 'Dealer Studio'
 location: 'Sydney'
 range: 'Apr 2025 - Present'

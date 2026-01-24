@@ -16,6 +16,10 @@ const StyledAboutSection = styled.section`
       display: block;
     }
   }
+
+  .highlight {
+    color: var(--green);
+  }
 `;
 const StyledText = styled.div`
   ul.skills-list {
@@ -77,25 +81,32 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hey! I'm Ben, a passionate Software Engineer originally from sunny England, I am now a
-              proud citizen of Australia mate. My interest in tech started when I left school and
-              studied Information Technology. Unfortunatley I was unable to follow my passions due
-              to a difficult job market in my hometown of Newcastle Upon Tyne.
+              I'm a Product-Minded Software Engineer who enjoys building products that are
+              intuitive, performant, and genuinely useful. I focus on writing clean, maintainable
+              code and delivering solutions that balance technical excellence with great user
+              experience.
+            </p>
+            <p>
+              I care about clarity, communication, and collaboration, working best in teams that
+              value transparency, curiosity, and honesty.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at a start-up called{' '}
-              <a href="https://gladlyapp.com/">Glady</a> where I gained Full Stack Engineering
-              skills, and now I’m diving deep into front-end development as an engineer at{' '}
-              <a href="https://www.dealerstudio.com.au/">Dealer Studio.</a> My main focus is
-              building accessible and impactful products that can help people lead better lives.
+              Over the past few years, I’ve contributed to production grade web platforms and large
+              scale applications using{' '}
+              <span className="highlight">React, Next.js, TypeScript,</span> and{' '}
+              <span className="highlight">Node.js</span>, while also exploring mobile development
+              with <span className="highlight">React Native</span> and cloud integrations through{' '}
+              <span className="highlight">AWS and Docker</span>. My work spans from building dynamic
+              CMS-driven systems to optimising performance across multi-brand environments.
             </p>
 
             <p>
-              Before becoming a Software Engineer I had a career in Recruitment, specialising in
-              Software Engineering. This allowed me to develop experience in understanding business
-              requirements to see the bigger picture and also to communicate effectively with
-              stakeholders.
+              Before moving into engineering full-time, I spent several years in recruitment
+              specialising in software engineering roles. That background gives me a strong
+              understanding of business requirements, stakeholder communication, and how technical
+              decisions impact real people and organisations, a perspective I bring into every
+              product I build.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

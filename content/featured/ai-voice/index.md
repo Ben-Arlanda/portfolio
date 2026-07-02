@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '4'
 title: 'AI Voice Assistant'
 cover: './ai-voice.png'
 github: 'https://github.com/Ben-Arlanda/ai-voice-assistant'

@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '3'
 title: 'ClearSky'
 cover: './weatherapp3.png'
 github: 'https://github.com/Ben-Arlanda/ClearSky'

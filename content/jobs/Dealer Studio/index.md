@@ -7,11 +7,11 @@ range: 'Apr 2025 - Present'
 url: 'https://www.dealerstudio.com.au/'
 ---
 
-- Working within a large-scale monorepo powering 100+ dealership sites across Australia & integrating a headless CMS with EditorJS
-- Developed and customised high-performance OEM branded websites (Toyota, Ford, LDV, Mitsubishi)
-- Built and maintained reusable components following brand guidelines and responsive design principles
-- Actively participated in peer code reviews across a front-end team of 10+ engineers, ensuring quality and consistency
-- Collaborated directly with PMs and stakeholders to implement custom client features, increasing customer satisfaction and adoption
-- Helped raise team wide code quality by actively participating in reviews and implementing best practices
-- Helped refine team communication practices, leading to more transparent discussions and better alignment across engineering
-- Trained new engineers on processes and web builds
+- Delivered end-to-end features for a multi-tenant automotive SaaS platform within a large monorepo architecture.
+- Led development of a major client project, building a multi-step vehicle configurator integrated with Stripe for live deposits and dynamic backend-driven vehicle options.
+- Integrated API-driven vehicle walk-around videos into product detail pages with accessible playback controls, increasing user engagement by 25%.
+- Designed and implemented an advanced blog filtering system with caching, reducing API calls by 40% and improving performance.
+- Built a personalised vehicle ownership portal that matched support guides and videos to customers’ saved vehicles, enhancing post-purchase self-service.
+- Improved CI/CD reliability by identifying and resolving flaky Playwright tests, increasing deployment stability and confidence.
+- Partnered with designers to deliver pixel-perfect, responsive user interfaces aligned with client branding and UX requirements.
+- Contributed to peer code reviews and architecture discussions within a team of 10+ engineers, helping maintain code quality, consistency, and best practices.

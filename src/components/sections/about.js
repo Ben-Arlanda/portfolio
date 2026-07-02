@@ -92,21 +92,12 @@ const About = () => {
             </p>
 
             <p>
-              Over the past few years, I’ve contributed to production grade web platforms and large
-              scale applications using{' '}
+              Over the past few years, I’ve contributed to production grade web SaaS platforms and
+              large scale applications using{' '}
               <span className="highlight">React, Next.js, TypeScript,</span> and{' '}
               <span className="highlight">Node.js</span>, while also exploring mobile development
               with <span className="highlight">React Native</span> and cloud integrations through{' '}
-              <span className="highlight">AWS and Docker</span>. My work spans from building dynamic
-              CMS-driven systems to optimising performance across multi-brand environments.
-            </p>
-
-            <p>
-              Before moving into engineering full-time, I spent several years in recruitment
-              specialising in software engineering roles. That background gives me a strong
-              understanding of business requirements, stakeholder communication, and how technical
-              decisions impact real people and organisations, a perspective I bring into every
-              product I build.
+              <span className="highlight">AWS and Docker</span>.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
